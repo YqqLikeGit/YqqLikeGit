@@ -1,19 +1,22 @@
 ## Hi, I'm RUDY YU 👋
 
-Building **macOS tools for Claude / AI workflows**.
+**Building tools & glossaries for Chinese AI developers.**
 
-### 🔥 Featured
+### ⭐ Featured — Star 这个
 
 | Project | Stars | What |
 |---------|-------|------|
-| [**claude-desktop-zh-1p**](https://github.com/YqqLikeGit/claude-desktop-zh-1p) | ![stars](https://img.shields.io/github/stars/YqqLikeGit/claude-desktop-zh-1p) | 官方 Claude Pro 账号 · macOS 简体中文界面 |
+| [**ai-heihua-zh**](https://github.com/YqqLikeGit/ai-heihua-zh) | ![stars](https://img.shields.io/github/stars/YqqLikeGit/ai-heihua-zh?style=flat) | **AI & 编程黑话词典** · 101 词条 · CLI 查词 · [在线阅读](https://yqqlikegit.github.io/ai-heihua-zh/) |
+| [claude-desktop-zh-1p](https://github.com/YqqLikeGit/claude-desktop-zh-1p) | ![stars](https://img.shields.io/github/stars/YqqLikeGit/claude-desktop-zh-1p?style=flat) | Claude Desktop 官方 Pro 中文界面 |
 
-### 🎯 Focus
+### 🔥 为什么 star ai-heihua-zh？
 
-- Claude Desktop 官方账号（1p）汉化
-- AI 开发工具 · 开源小工具
+GitHub · MCP · Agent · RAG · Cursor — **收藏一个仓库，查词不用到处 Google。**
 
-### 📫 Links
+```bash
+git clone https://github.com/YqqLikeGit/ai-heihua-zh.git && cd ai-heihua-zh && ./bin/heihua mcp
+```
 
-- GitHub: [@YqqLikeGit](https://github.com/YqqLikeGit)
-- 问题反馈：直接在仓库开 [Issue](https://github.com/YqqLikeGit/claude-desktop-zh-1p/issues)
+### 📫
+
+- 提词条：[ai-heihua-zh Issues](https://github.com/YqqLikeGit/ai-heihua-zh/issues)
